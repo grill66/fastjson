@@ -2,7 +2,8 @@ package fastjson_test
 
 import (
 	"fmt"
-	"github.com/valyala/fastjson"
+
+	"github.com/grill66/fastjson"
 )
 
 func ExampleGetString() {
